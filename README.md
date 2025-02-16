@@ -50,6 +50,10 @@ Also do in 2D what is possible, and use extrusion afterwards, every polygon you 
 - A lot of thanks to the openscad community, and for this project Jason Brown especially
 - mardown edited with retext 
 
+# alternate Versions
+- Version of [Raymond West](token_west.scad) in openscad and rendered: ![RW coin](img/rw.png)
+- BOSL2 version of [Richard A. Milewski](token_milewski.scad) in openscad and rendered: ![bosl2Coin](img/bosl2coin.png "token using bosl2")
+
 # Licence
 
 see [GPL](LICENSE)
